@@ -1,8 +1,8 @@
-# Arithmetic with C – Pro Edition
+# Arithmetic with C
 
-Welcome to the **Pro Edition** of Arithmetic with C!
+Welcome to Arithmetic with C!
 
-This version includes all basic arithmetic operations (addition, subtraction, multiplication, division) plus advanced features like modulus, exponentiation, and factorial. The program uses a user-friendly menu system, input validation, and modular code for easy maintenance and extension.
+This project includes all basic arithmetic operations (addition, subtraction, multiplication, division) plus advanced features like modulus, exponentiation, and factorial. The program uses a user-friendly menu system, input validation, and modular code for easy maintenance and extension.
 
 ## Features
 
@@ -16,7 +16,7 @@ This version includes all basic arithmetic operations (addition, subtraction, mu
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/arithmetic-with-C.git
+   git clone https://github.com/rupeshsivasai/arithmetic-with-C.git
    ```
 2. Navigate to the project directory:
    ```
@@ -24,11 +24,11 @@ This version includes all basic arithmetic operations (addition, subtraction, mu
    ```
 3. Compile the code:
    ```
-   gcc main.c -o arithmetic-pro
+   gcc main.c -o arithmetic
    ```
 4. Run the program:
    ```
-   ./arithmetic-pro
+   ./arithmetic
    ```
 
 ## File Structure
@@ -41,7 +41,7 @@ This version includes all basic arithmetic operations (addition, subtraction, mu
 ## Example
 
 ```
-Welcome to Arithmetic with C – Pro Edition!
+Welcome to Arithmetic with C!
 Please select an operation:
 1. Addition
 2. Subtraction
@@ -53,5 +53,3 @@ Please select an operation:
 0. Exit
 Enter your choice:
 ```
-
-## License
